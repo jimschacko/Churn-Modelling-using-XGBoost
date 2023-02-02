@@ -1,0 +1,14 @@
+# Part 1: Data preprocessing
+    Importing the libraries
+    Importing the dataset
+    Dealing with missing data
+    Encoding categorical variables
+    Splitting the dataset into train and test set
+    Feature scaling
+
+# Part 2: Building the model
+    XGBoost Model and cross Validation
+
+# Part 3: Randomized Search to find the best parameters 
+
+# Part 4: Final Model
